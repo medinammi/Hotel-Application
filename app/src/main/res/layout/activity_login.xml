@@ -41,9 +41,9 @@
         android:background="@drawable/shape_edittext01"
         android:fontFamily="@font/sansita"
         android:paddingHorizontal="58dp"
+        android:paddingVertical="5dp"
         android:textAllCaps="false"
         android:textColor="@color/primary"
-        android:paddingVertical="5dp"
         android:textSize="20sp"
         android:textStyle="bold" />
 

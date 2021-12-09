@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MedinaHotel">
         <activity
+            android:name=".CategoryAddActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ImageListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HotelAddActivity"
+            android:exported="false" />
+        <activity
             android:name=".HotelActivity"
             android:exported="false" />
         <activity
